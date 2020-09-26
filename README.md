@@ -20,8 +20,9 @@ _**What are your hobbies outside of programming?**_
 
 ## Technical Skills :zap::
 #### Currently Learning :computer:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
+![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 
 #### Known Languages :brain:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
