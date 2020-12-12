@@ -21,7 +21,9 @@ _**What are your hobbies outside of programming?**_
 ## Technical Skills :zap::
 #### Currently Learning :computer:
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
-![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
+![iOS](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
+![ReactJS](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 
 #### Known Languages :brain:
@@ -29,7 +31,6 @@ _**What are your hobbies outside of programming?**_
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
 ![C#](https://img.shields.io/badge/-C_Sharp-green?style=flat&logo=c-sharp)
-![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-B52E31?style=flat&logo=Angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
