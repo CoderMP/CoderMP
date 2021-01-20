@@ -20,14 +20,15 @@ _**What are your hobbies outside of programming?**_
 
 ## Technical Skills :zap::
 #### Known Languages :brain:
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-![C#](https://img.shields.io/badge/-C_Sharp-green?style=flat&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-B52E31?style=flat&logo=Angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
+![C#](https://img.shields.io/badge/-C_Sharp-green?style=flat&logo=c-sharp)
 
 #### Currently Learning :computer:
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
