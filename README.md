@@ -19,13 +19,6 @@ _**What are your hobbies outside of programming?**_
 - 3D Printing - Mainly a hobby printing game and movie props
 
 ## Technical Skills :zap::
-#### Currently Learning :computer:
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
-![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
-![iOS](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
-![ReactJS](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
-
 #### Known Languages :brain:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
@@ -35,6 +28,13 @@ _**What are your hobbies outside of programming?**_
 ![Angular](https://img.shields.io/badge/-Angular-B52E31?style=flat&logo=Angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
+
+#### Currently Learning :computer:
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
+![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
+![iOS](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
+![ReactJS](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 
 ## Contact
 Feel free to contact me, I'm always down for a friendly chat
