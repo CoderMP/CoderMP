@@ -1,44 +1,34 @@
-# Hi there, I'm Mark Philips 👋
+# Hi, I'm Mark 👋
 
-I'm a mobile app developer based out of the GTA in Ontario, Canada that likes experimenting with new languages & tech stacks, as well as competing in the occasional Hackathon! 
+I'm an **Mobile Developer** with a passion for **Kotlin**, **Jetpack Compose**, and creating intuitive, scalable mobile applications. I’m constantly diving deeper into **design patterns**, **architecture**, and **advanced Android frameworks** to elevate my craft. My approach to learning is driven by **project-based exploration**, and I love applying new concepts to real-world challenges.
 
-## About Me
-_**When did you start programming?**_
-My first encounter with programming was in my Grade 11 Java programming class. I made a 6 question demo of Are You Smarter Than A 5th Grader :joy:
+## 🚀 What I’m Currently Working On
 
-_**What drew you to Mobile Development in particular?**_
-I grew an affinity for Mobile Development because of how I can _see_ the results of what I'm working on. Personally, I prefer Android over iOS :sweat_smile:
+- Deep diving into **Clean Architecture** and **Dependency Injection** patterns to optimize large-scale Android apps.
+- Building **multi-module** Kotlin projects to explore modularization and efficient app structures.
+- Contributing to **Jetpack Compose**-based apps, focusing on building seamless UI/UX with declarative programming.
+- Experimenting with **cross-platform solutions** like **Kotlin Multiplatform** and staying up-to-date with the latest Android development tools and technologies.
 
-_**What is your goal as a Mobile Developer?**_
-As a Mobile Developer, I aim to be a better problem solver so that I can create better-working solutions than the ones that currently exist. "If it ain't broke, don't fix it....unless you can make it better":slightly_smiling_face:
+## 🔧 Technologies I Work With
 
-_**What are your hobbies outside of programming?**_
-- Guitar - been playing all genres (except country :sweat_smile:) for ~12 years 
-- Indoor Rock Climbing - although I'm looking to do outdoor as well
-- Gaming - PC player through and through
-- 3D Printing - Mainly a hobby printing game and movie props
+![](https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,java,git,github,githubactions,vscode,python,flask,figma)
 
-## Technical Skills :zap::
-#### Known Languages :brain:
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-B52E31?style=flat&logo=Angular)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
-![C#](https://img.shields.io/badge/-C_Sharp-green?style=flat&logo=c-sharp)
+## 📚 Key Skills
 
-#### Currently Learning :computer:
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=adobe-xd)
-![Swift](https://img.shields.io/badge/-Swift-5FC9F8?style=flat&logo=swift)
-![iOS](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
-![ReactJS](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
+- **Android Development** (Kotlin, Jetpack Compose)
+- **Modular Architecture** & **Multi-Module Projects**
+- **Clean Architecture** & **Design Patterns** (MVVM, MVI, DI)
+- **UI/UX** Design & **Declarative UI** with Compose
+- **Dependency Injection** (Dagger/Hilt, Koin)
+- **Unit Testing** & **UI Testing** (JUnit, Jupiter, Espresso)
 
-## Contact
-Feel free to contact me, I'm always down for a friendly chat
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-stephanos-philips)
 
-[![Linkedin](https://img.shields.io/badge/-Mark_Philips-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-stephanos-philips/)](https://www.linkedin.com/in/mark-stephanos-philips/)
-[![Twitter](https://img.shields.io/badge/-CoderMP-00ACED?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/CoderMP)](https://twitter.com/CoderMP)
+## 📈 GitHub Stats
+![Most Used Languages](https://raw.githubusercontent.com/starry-shivam/github-stats-transparent/output/generated/languages.svg)
+
+---
+
+### **Feel free to explore my repositories!**  
+If you're interested in any of the projects or want to collaborate, don't hesitate to reach out!
